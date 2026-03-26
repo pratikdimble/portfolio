@@ -8,7 +8,7 @@
 
 <body>
 
-    <!-- Particles Background -->
+    <!-- Particles Background (UNCHANGED) -->
     <div class="particles">
         <div class="particle"></div>
         <div class="particle"></div>
@@ -28,39 +28,44 @@
         <ul class="nav-links">
             <li><a href="#about">About</a></li>
             <li><a href="#roles">Roles</a></li>
-            <li><a href="#projects">Modules</a></li>
+            <li><a href="#projects">Projects</a></li>
             <li><a href="#contributions">Contributions</a></li>
             <li><a href="#skills">Skills</a></li>
+            <li><a href="#education">Education</a></li>
         </ul>
     </nav>
 
     <!-- Hero -->
-    <header class="hero">
-        <h1>Senior Software Engineer</h1>
+    <header class="hero fade">
+        <h3 class="intro">Hi, I'm</h3>
+
+        <h1 class="name">Pratik Mahadev Dimble</h1>
+
         <h2 class="typing"></h2>
+
         <p class="highlight">Building Scalable Microservices & Data Platforms</p>
-        <p>Pratik Mahadev Dimble | https://github.com/pratikdimble</p>
+
+        <div class="hero-links">
+            <a href="https://github.com/pratikdimble" target="_blank" class="btn">GitHub</a>
+            <a href="https://www.linkedin.com/in/pratik-dimble2238/" target="_blank" class="btn">LinkedIn</a>
+            <!-- <a href="#" class="btn outline">Download Resume</a> -->
+        </div>
     </header>
 
     <main>
 
-        <!-- Introduction -->
-        <section id="about" class="section glass">
+        <section id="about" class="section glass fade">
             <h2>Introduction & Experience</h2>
             <p>
-                Senior Software Engineer with expertise in designing and developing scalable backend systems
-                using Java, Spring Boot, and Microservices architecture. Strong experience in REST API development,
-                database design (PostgreSQL, MySQL), and cloud platforms like AWS and Azure.
-
-                Skilled in implementing secure, high-performance applications using OAuth, JWT, and modern DevOps
-                practices.
-                Experienced in collaborating with cross-functional teams, mentoring developers, and delivering
+                Senior Software Engineer with expertise in designing and developing scalable backend systems using Java, Spring Boot,
+                and Microservices architecture. Strong experience in REST API development, database design (PostgreSQL, MySQL), and
+                cloud platforms like AWS and Azure. Skilled in implementing secure, high-performance applications using OAuth, JWT, and
+                modern DevOps practices. Experienced in collaborating with cross-functional teams, mentoring developers, and delivering
                 enterprise-grade solutions.
             </p>
         </section>
 
-        <!-- Collaboration -->
-        <section class="section glass">
+        <section class="section glass fade">
             <h2>Collaboration & Stakeholders</h2>
             <ul>
                 <li>Data engineering and platform teams</li>
@@ -70,8 +75,7 @@
             </ul>
         </section>
 
-        <!-- Roles -->
-        <section id="roles" class="section glass">
+        <section id="roles" class="section glass fade">
             <h2>Roles & Responsibilities</h2>
             <ul>
                 <li>Backend development using Java, Spring Boot, Spring MVC</li>
@@ -85,30 +89,66 @@
             </ul>
         </section>
 
-        <!-- Projects / Modules -->
+        <!-- Projects with MULTI PAGE -->
         <section id="projects" class="section">
-            <h2>Modules</h2>
+            <h2>Projects</h2>
             <div class="project-grid">
-                <div class="project-card glass">
-                    <h3>Global Data Catalog</h3>
-                    <p>Enterprise-grade data management and catalog platform for large-scale data systems.</p>
-                    <span>Java | Vue.js | PostgreSQL | AWS | GCP</span>
-                </div>
-                <div class="project-card glass">
-                    <h3>Accumate Accounting System</h3>
-                    <p>Next-gen accounting solution with GST, banking, and compliance features.</p>
-                    <span>Java | Angular | PostgreSQL</span>
-                </div>
-                <div class="project-card glass">
-                    <h3>Invoice Management System</h3>
+        
+                <a href="project-catalog.html" class="project-card glass scale">
+                    <div class="project-header">
+                        <h4 class="project-org">TransUnion</h4>
+                        <h3>Global Data Catalog</h3>
+                    </div>
+                    <p>Enterprise-grade data management & analytics platform for large-scale data systems.</p>
+                    <div class="tech-stack">
+                        <span>Java</span><span>Vue</span><span>AWS</span><span>GCP</span>
+                    </div>
+                </a>
+        
+                <a href="project-accumate.html" class="project-card glass scale">
+                    <div class="project-header">
+                        <h3>Accumate</h3>
+                    </div>
+                    <p>Next-gen accounting solution with GST, banking, compliance & reporting.</p>
+                    <div class="tech-stack">
+                        <span>Java</span><span>Angular</span><span>PostgreSQL</span>
+                    </div>
+                </a>
+        
+                <a href="project-ulimi.html" class="project-card glass scale">
+                    <div class="project-header">
+                        <h3>ULIMI Chatbot</h3>
+                    </div>
+                    <p>Smart chatbot system enabling automated conversations and user engagement.</p>
+                    <div class="tech-stack">
+                        <span>Spring Boot</span><span>Dialogflow</span><span>Swagger</span>
+                    </div>
+                </a>
+        
+                <a href="project-click360.html" class="project-card glass scale">
+                    <div class="project-header">
+                        <h3>Click 360</h3>
+                    </div>
+                    <p>Employee performance tracking system with goals, competencies & insights.</p>
+                    <div class="tech-stack">
+                        <span>Spring Boot</span><span>MySQL</span><span>Eureka</span>
+                    </div>
+                </a>
+        
+                <a href="project-ims.html" class="project-card glass scale">
+                    <div class="project-header">
+                        <h3>Invoice Management</h3>
+                    </div>
                     <p>Microservices-based invoice automation with intelligent data extraction.</p>
-                    <span>Spring Boot | RabbitMQ | Azure</span>
-                </div>
+                    <div class="tech-stack">
+                        <span>Spring Boot</span><span>RabbitMQ</span><span>Azure</span>
+                    </div>
+                </a>
+        
             </div>
         </section>
 
-        <!-- Contributions -->
-        <section id="contributions" class="section glass">
+        <section id="contributions" class="section glass fade">
             <h2>Key Contributions</h2>
             <ul>
                 <li>Designed and developed scalable backend systems</li>
@@ -121,8 +161,7 @@
             </ul>
         </section>
 
-        <!-- Skills -->
-        <section id="skills" class="section glass">
+        <section id="skills" class="section glass fade">
             <h2>Technical Skills</h2>
             <ul class="skills">
                 <li>Java</li>
@@ -141,7 +180,7 @@
         </section>
 
         <!-- Education (Added safely) -->
-        <section class="section glass">
+        <section id="education"class="section glass">
             <h2>Education</h2>
             <ul>
                 <li>BE Computer Engineering – Pune University (2016)</li>
@@ -368,6 +407,131 @@
             margin-top: 40px;
             opacity: 0.6;
             font-size: 14px;
+        }
+
+        /* Project Card Upgrade */
+
+        .project-card {
+            padding: 22px;
+            transition: all 0.35s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* subtle gradient glow */
+        .project-card::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(120deg, transparent, rgba(56, 189, 248, 0.2), transparent);
+            opacity: 0;
+            transition: 0.4s;
+        }
+
+        /* hover effect */
+        .project-card:hover::before {
+            opacity: 1;
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 15px 40px rgba(56, 189, 248, 0.25);
+        }
+
+        /* header */
+        .project-header {
+            margin-bottom: 10px;
+        }
+
+        .project-header h3 {
+            font-size: 20px;
+            color: #ffffff;
+        }
+
+        .project-org {
+            font-size: 12px;
+            color: #38bdf8;
+            margin-bottom: 4px;
+        }
+
+        /* description */
+        .project-card p {
+            font-size: 14px;
+            margin-bottom: 14px;
+            color: #cbd5f5;
+        }
+
+        /* tech stack pills */
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tech-stack span {
+            font-size: 12px;
+            padding: 6px 10px;
+            border-radius: 20px;
+            background: rgba(56, 189, 248, 0.15);
+            color: #38bdf8;
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            transition: 0.3s;
+        }
+
+        .tech-stack span:hover {
+            background: #38bdf8;
+            color: #0f172a;
+        }
+
+        /* Hero Upgrade */
+
+        .intro {
+            font-size: 16px;
+            color: #94a3b8;
+            margin-bottom: 5px;
+        }
+
+        .name {
+            font-size: 48px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 10px;
+        }
+
+        /* buttons */
+        .hero-links {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .btn {
+            padding: 10px 18px;
+            background: #38bdf8;
+            color: #0f172a;
+            border-radius: 25px;
+            font-size: 14px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(56, 189, 248, 0.4);
+        }
+
+        .btn.outline {
+            background: transparent;
+            color: #38bdf8;
+            border: 1px solid #38bdf8;
+        }
+
+        .btn.outline:hover {
+            background: #38bdf8;
+            color: #0f172a;
         }
     </style>
 
