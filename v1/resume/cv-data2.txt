@@ -1,0 +1,99 @@
+Pratik Dimble
+Job Title:Senior Software Engineer
+Phone:
+9158803045
+Email:
+pratikdimble10@gmail.com
+Website:
+https://pratikdimble.github.io/portfolio/
+Address:
+Pune, MH, 412205
+Develop and maintain backend systems and APIs using Spring Boot, Spring MVC, and Spring Data.
+Design and implement RESTful APIs and integrate with third-party services.
+Work with relational databases, including MySQL and PostgreSQL. Use JPA and Hibernate for ORM-based data access.
+Implement Spring Security for securing applications using OAuth, JWT, and other security protocols.
+Collaborated with product managers, front-end developers, and team members to design and implement features aligned with user needs.
+Written clear documentation for APIs, code, and processes.
+Nitor Infotech is a technology consulting and services company that specializes in software development and IT solutions.
+
+Education
+Pune University
+BE Computers
+2016
+Maharashtra State Board of Technical Education
+Diploma in Computers Technology
+2013
+Maharashtra State Board
+Higher Secondary Certificate (Science)
+2010
+Maharashtra State Board
+Secondary School Certificate
+2008
+Projects
+Nitor-Global Data Catalog: Enterprise-grade data management and analytics platform.
+Role: Senior Software Engineer.
+Tools & Technologies: Java, Vue.js, PostgreSQL, GCP, AWS.
+Project Contribution:
+1. Participating in sprint planning and completing Jira stories related to data ingestion, catalog updates, and UI improvements.
+2. Collaborating with QA to support testing activities and resolve defects efficiently to ensure high-quality deliverables.
+3. Supporting the team in testing and demo sessions to ensure smooth delivery and stakeholder satisfaction.
+4. Worked on creating a CI/CD pipeline.
+
+Eracal-Accumate: Company product for Accounting Solutions offering Accounting, Taxation (fully GST-ready), Banking, Compliance, and Reports Generation.
+Role: Java Developer.
+Tools & Technologies: Java, AngularJS, Postgres SQL, iReport Designer, and Bhash SMS API.
+Project Contribution:
+1. Code quality improvements.
+2. Fix the issues faced in using the system.
+3. Worked on creating a CI/CD pipeline.
+
+Eracal-ULIMI: Advanced smart communication chatbot application to have better conversations. It also helps increase self-service engagement and automate user interactions.
+Role: Java Developer.
+Tools & Technologies: Java Spring Boot, Postgres SQL, Swagger, and Dialog flow.
+Project Contribution:
+1. Independently coordinated with team and client.
+2. Follow code reviews.
+3. Fix the issues faced in using the system.
+
+Eracal-Click 360: Application for tracking employee performance in an organization, containing modules for goals, competencies, incidents, etc.
+Role: Software Developer.
+Tools & Technologies: Java Spring Boot, MySQL, Swagger, Eureka Server.
+Project Contribution:
+1. As a developer, I understand the requirements, developed Api for each requirement, and consume these Api over the application.
+2. Independently coordinated and worked with teams from different cities.
+
+Eracal-Invoice Management System: Microservice architecture application. IMS is a rapidly deployable and affordable SaaS model solution. The email contains an invoice as a PDF attachment, which may be generated from the supplier's business system. Our Intelligent IMA reads the email and automatically extracts data and runs various completion checks to ensure all required data is captured, and runs multiple business rules.
+Role: Software Engineer.
+Tools & Technologies: Java Spring Boot, SQL Server, Swagger, Eureka Server, Activiti workflow, RabbitMQ, Azure form recognizer.
+Project Contribution:
+1. As a developer, I understand the requirements, developed Api for each requirement, and consume these Api over the application.
+2. Independently coordinated with the client to understand and fix the issues faced in using the system.
+3. Worked on creating a CI/CD pipeline.
+Experience
+Nitor Infotech Private Limited
+Senior Software Engineer
+Pune, MH
+Nov 2024 - Present
+Develop and maintain backend systems and APIs using Spring Boot, Spring MVC, and Spring Data.
+Design and implement RESTful APIs and integrate with third-party services.
+Work with relational databases, including MySQL and PostgreSQL. Use JPA and Hibernate for ORM-based data access.
+Implement Spring Security for securing applications using OAuth, JWT, and other security protocols.
+Collaborated with product managers, front-end developers, and team members to design and implement features aligned with user needs.
+Written clear documentation for APIs, code, and processes.
+Nitor Infotech is a technology consulting and services company that specializes in software development and IT solutions.
+
+Eracal Software Private Limited
+Software Engineer
+Pune, MH
+Jul 2021 - Aug 2023
+Designed and developed APIs based on business requirements and integrated them into the application.
+Built and maintained a CI/CD pipeline to streamline deployment and improve development efficiency.
+Participated in sprint planning and delivered Jira stories for data ingestion, catalog updates, and UI enhancements to meet project goals.
+Resolved system issues and improved code quality for better performance and reliability.
+Collaborated with QA and stakeholders to support testing and demos, and ensure high-quality deliverables.
+Coordinated with cross-functional teams and clients across locations to deliver tailored solutions aligned with business objectives.
+Collaborated with cross-functional teams and clients across locations to ensure successful solution delivery and stakeholder satisfaction.
+Personal Information
+LinkedIn Profile URL: LinkedIn
+Portfolio Website URL: Portfolio
+GitHub Profile URL: Github

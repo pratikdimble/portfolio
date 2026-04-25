@@ -1,0 +1,74 @@
+Senior software engineer at Nitor Infotech Pvt. Ltd. 
+specializing in Java and Spring Boot, with a proven track record in developing high-performance microservices and RESTful APIs. Successfully managed multiple development and update projects simultaneously, ensuring timely delivery and quality. Strong leader and team builder, focused on achieving results and fostering collaboration across teams. Expertise in creating software solutions tailored to diverse client needs and experimentation platforms.
+
+Summary Of Career Path
+Junior/Entry-Level Developer, Learning the basics of Java, Spring Framework, and development best practices., Write and maintain code, primarily for small tasks or modules., Work under the supervision of more experienced developers., Learn about version control (Git), testing, and debugging., Begin understanding databases (SQL,) and ORM (e.g., Hibernate)., Familiarize with Spring Boot, REST APIs, and basic front-end integration., Participate in team meetings., Master core Java concepts, Spring Boot basics, and RESTful APIs., Learn to work with databases and improve coding practices.
+Software Developer, Building on core Java and Spring Boot expertise with more complex tasks., Design and implement key features for the back end of applications., Handle database interactions, including optimizing queries., Develop and consume REST APIs and integrate with third-party services., Conduct code reviews and ensure code quality., Implement microservices using Eureka Server and deploy applications to cloud platforms (AWS, Azure using RDS, Git)., Work with DevOps tools for Continuous Integration/Continuous Deployment (CI/CD)., Improve understanding of microservices, cloud deployment, and application security., Learn more advanced frameworks and technologies (e.g., RabbitMQ, Azure IoT)., Start gaining leadership and mentoring experience.
+
+Key Contribution Area
+Backend Development
+RESTful API Design
+Coding Review
+API Documentation, Technical Documentation
+Cross-Functional Collaboration
+Mentoring and Knowledge Sharing
+Client Engagement
+
+Technology Competencies
+Java, Spring MVC, Spring Boot, Relational (PostgreSQL, MySQL), ORM (Hibernate, JPA), Git, Harness, RESTful APIs, AWS, Azure, Microservices Architecture, GitHub, Bitbucket, RabbitMQ, Swagger API, Postman API, Logging, Angular, Agile
+
+Java
+Spring Boot
+Spring MVC
+Microservices
+RESTful Web Services
+Hibernate
+JPA
+PostgreSQL
+MySQL
+RabbitMQ
+AWS
+Azure
+Swagger API
+Postman API
+Git
+Bitbucket
+Web Development
+Angular
+Agile methodologies
+System architecture
+JIRA
+Harness
+Cross-functional collaboration
+
+Project Highlights
+Ascendion TransUnion Global Data Catalog, The Ascendion TransUnion Global Data Catalog is an enterprise-grade data management and analytics platform developed by Ascendion in collaboration with TransUnion. It is designed to help organizations efficiently manage, catalog, and analyze vast amounts of data from various sources, ensuring data quality, accessibility, and compliance across global operations., Java Developer, Java, Vue JS, Postgres SQL, GCP, AWS., Participating in sprint planning and successfully completing Jira stories related to data ingestion, catalog updates, and UI improvements., Collaborating with QA to support testing activities and resolve defects efficiently to ensure high-quality deliverables., Supporting the team in testing and demo sessions to ensure smooth delivery and stakeholder satisfaction., Worked on creating a CI/CD pipeline.
+Accumate, This is a company product for Accounting Solutions. Though there are many Accounting Solutions in the market, Accumate is unparallel in Scope, Simplicity and Security. Accumate is a next-gen Accounting Solution that gives you more Power and Flexibility to manage your company books., Java Developer, Java, Angular JS, Postgres SQL, iReport Designer and Bhash SMS API, Code quality improvements., Fix the issues faced in using the system., Worked on creating a CI/CD pipeline.
+ULIMI, The way we communicate has improved somehow. Thanks to many Intelligent assistants such as chatbots and voice-enabled devices like Alexa and Google Home that offer a unique, natural, and intuitive human-machine interaction., Java Developer, Java Spring Boot, Postgres SQL, Swagger and Dialog flow, Independently coordinated with team and client., Follow code reviews., Fix the issues faced in using the system.
+Click 360, This application is all about the tracking of the employee's performance in that organization. This app contains various modules which are essential for each office & tracking their employees like goals, competencies, incidents etc., Software Developer, Java Spring Boot, MySQL, Swagger, Eureka Server, As a developer, I understand the requirements, developed Api for each requirement and consume these Api over the application., Independently coordinated and worked with teams from different cities.
+Invoice Management System, This Microservice architecture application. IMS is a rapidly deployable and affordable SaaS model solution. The email contains an invoice as a pdf attachment which may be generated from the supplier's business system., Software Developer, Java Spring Boot, SQL Server, Swagger, Eureka Server, Activiti workflow, RabbitMQ, Azure form recognizer, As a developer, I understand the requirements, developed Api for each requirement and consume these Api over the application., Independently coordinated with team and client to understand and fix the issues faced in using the system., Worked on creating a CI/CD pipeline.
+
+
+Profile Background
+Develop and maintain backend systems and APIs using Spring Boot, Spring MVC, and Spring Data., Build and maintain scalable, resilient, and high-performance microservices using Eureka Server and other related technologies., Design and implement RESTful APIs and integrate with third-party services., Work with relational databases, including MySQL, PostgreSQL. Use JPA and Hibernate for ORM-based data access., Implement Spring Security for securing applications using OAuth, JWT, and other security protocols., Work with DevOps tools (e.g., Git, GitHub, Bitbucket) for continuous integration and deployment pipelines., Collaborate with product managers, front-end developers, and other team members to design and implement features., Analyze application performance and make improvements for scalability and efficiency., Write clear documentation for APIs, code, and processes.
+
+Current Role
+Senior Software Engineer
+
+Senior Software Engineer
+Develop and maintain backend systems and APIs using Spring Boot, Spring MVC, and Spring Data.
+Design and implement RESTful APIs and integrate with third-party services.
+Work with relational databases, including MySQL, PostgreSQL. Use JPA and Hibernate for ORM-based data access.
+Implement Spring Security for securing applications using OAuth, JWT, and other security protocols.
+Collaborated with product managers, front-end developers, and team members to design and implement features aligned with user needs.
+Written clear documentation for APIs, code, and processes.
+Nitor Infotech is a technology consulting and services company that specializes in software development and IT solutions.
+
+Software Engineer
+Designed and developed APIs based on business requirements and integrated them into the application.
+Built and maintained a CI/CD pipeline to streamline deployment and improve development efficiency.
+Participated in sprint planning and delivered Jira stories for data ingestion, catalog updates, and UI enhancements to meet project goals.
+Resolved system issues and improved code quality for better performance and reliability.
+Collaborated with QA and stakeholders to support testing, demos, and ensure high-quality deliverables.
+Coordinated with cross-functional teams and clients across locations to deliver tailored solutions aligned with business objectives.
+Collaborated with cross-functional teams and clients across locations to ensure successful solution delivery and stakeholder satisfaction.
